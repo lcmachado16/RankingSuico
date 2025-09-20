@@ -1,6 +1,10 @@
 # RankingSuico
 
+## Etapas 
 
+### Final 
+- Gerar o aplicativo standalone 
+=> Gerar um executável standalone
 
 # Pré Requisitos 
 
